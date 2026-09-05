@@ -1,0 +1,1 @@
+const s="2026-09-05T17:15:53.482Z",n="68a4580";function o(){const t=new Date(s);if(Number.isNaN(t.getTime()))return n;const e=a=>String(a).padStart(2,"0");return`${`${t.getFullYear()}.${e(t.getMonth()+1)}.${e(t.getDate())}-${e(t.getHours())}${e(t.getMinutes())}`} · ${n}`}export{o as g};
