@@ -1,0 +1,1 @@
+import{j as a}from"./index-BdrU0pPv.js";import{a as t}from"./PlaceSearch-DndJDiqp.js";function l({items:e}){const o=t();return a.jsxs("p",{className:"pm-method","aria-label":o("Calculation method"),children:[a.jsxs("span",{className:"pm-method-label",children:[o("Method"),":"]})," ",e.map(s=>o(s)).join(" · ")]})}export{l as M};

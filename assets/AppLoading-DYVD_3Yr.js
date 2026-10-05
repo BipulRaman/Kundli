@@ -1,0 +1,1 @@
+import{j as a,l as s}from"./index-BdrU0pPv.js";function i(){return a.jsxs("div",{className:"app-loading",role:"status","aria-live":"polite",children:[a.jsx(s,{className:"app-loading-mark"}),a.jsx("span",{className:"app-loading-text",children:"Loading your charts…"})]})}export{i as A};

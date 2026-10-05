@@ -1,0 +1,1 @@
+import{r as a}from"./index-BdrU0pPv.js";import{u as n}from"./TopBar-CE4fxohm.js";function p(e){const t=n({select:s=>o(s.pathname,e)?s.state:null}),r=a.useRef(t??{});return t&&(r.current=t),r.current}function o(e,t){return e.replace(/\/+$/,"")===t.replace(/\/+$/,"")}export{p as u};
